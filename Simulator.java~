@@ -1,0 +1,22 @@
+
+
+public class Simulator extend JFrame {
+    
+    private Particle2D[] particles;
+
+    public Simulator() {
+	
+    }
+
+    public run() {
+	
+
+    }
+
+
+
+    public static void main(String[] args) {
+	Simulator simulator = new Simulator();
+    }
+
+}

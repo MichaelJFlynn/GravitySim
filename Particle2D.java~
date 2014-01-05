@@ -1,0 +1,21 @@
+
+
+public class Particle2D {
+
+    double x;
+    double y;
+    double mass;
+    double vx;
+    double vy;
+
+    public Particle2D(double x, double y, double mass, double vx, double vy) {
+	this.x = x;
+	this.y = y;
+	this.mass = mass;
+	this.vx = vx;
+	this.vy = vy;
+    }
+    
+
+
+} 
